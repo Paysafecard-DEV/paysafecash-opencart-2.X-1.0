@@ -1,4 +1,5 @@
-# paysafecash-opencart-2.X-1.0
+# paysafecash-opencart-2.X-1.2
+
 
 # Paysafecash
 
